@@ -6,10 +6,8 @@ export const INIT_CODE_HASH = '0x67afece463b64891c13546ab1249f241b6654938a3a09c4
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
-
 export const ZERO = JSBI.BigInt(0)
 export const ONE = JSBI.BigInt(1)
 export const FIVE = JSBI.BigInt(5)
 export const _997 = JSBI.BigInt(997)
 export const _1000 = JSBI.BigInt(1000)
-

@@ -133,7 +133,7 @@ export abstract class Router {
           value = ZERO_HEX
         }
         break
-    };
+    }
     return {
       methodName,
       args,
